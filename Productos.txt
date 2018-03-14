@@ -1,0 +1,694 @@
+EMPRESA: Google
+	IdProducto: 1
+	Nombre Producto: Té Dharamsala
+	Nombre Proveedor: Exotic Liquids
+	Nombre Categoria: Bebidas
+	Precio: 18
+	Existencias: 39
+	Cantidad Vendida: 174
+
+
+	IdProducto: 2
+	Nombre Producto: Cerveza tibetana Barley
+	Nombre Proveedor: Exotic Liquids
+	Nombre Categoria: Bebidas
+	Precio: 19
+	Existencias: 17
+	Cantidad Vendida: 401
+
+
+	IdProducto: 3
+	Nombre Producto: Sirope de regaliz
+	Nombre Proveedor: Exotic Liquids
+	Nombre Categoria: Condimentos
+	Precio: 10
+	Existencias: 13
+	Cantidad Vendida: 100
+
+
+	IdProducto: 4
+	Nombre Producto: Especias Cajun del chef Anton
+	Nombre Proveedor: New Orleans Cajun Delights
+	Nombre Categoria: Condimentos
+	Precio: 22
+	Existencias: 53
+	Cantidad Vendida: 123
+
+
+	IdProducto: 5
+	Nombre Producto: Mezcla Gumbo del chef Anton
+	Nombre Proveedor: New Orleans Cajun Delights
+	Nombre Categoria: Condimentos
+	Precio: 21
+	Existencias: 0
+	Cantidad Vendida: 129
+
+
+	IdProducto: 6
+	Nombre Producto: Mermelada de grosellas de la abuela
+	Nombre Proveedor: Grandma Kelly's Homestead
+	Nombre Categoria: Condimentos
+	Precio: 25
+	Existencias: 120
+	Cantidad Vendida: 36
+
+
+	IdProducto: 7
+	Nombre Producto: Peras secas orgánicas del tío Bob
+	Nombre Proveedor: Grandma Kelly's Homestead
+	Nombre Categoria: Frutas/Verduras
+	Precio: 30
+	Existencias: 15
+	Cantidad Vendida: 71
+
+
+	IdProducto: 8
+	Nombre Producto: Salsa de arándanos Northwoods
+	Nombre Proveedor: Grandma Kelly's Homestead
+	Nombre Categoria: Condimentos
+	Precio: 40
+	Existencias: 6
+	Cantidad Vendida: 140
+
+
+	IdProducto: 9
+	Nombre Producto: Buey Mishi Kobe
+	Nombre Proveedor: Tokyo Traders
+	Nombre Categoria: Carnes
+	Precio: 97
+	Existencias: 29
+	Cantidad Vendida: 20
+
+
+	IdProducto: 10
+	Nombre Producto: Pez espada
+	Nombre Proveedor: Tokyo Traders
+	Nombre Categoria: Pescado/Marisco
+	Precio: 31
+	Existencias: 31
+	Cantidad Vendida: 139
+
+
+	IdProducto: 11
+	Nombre Producto: Queso Cabrales
+	Nombre Proveedor: Cooperativa de Quesos 'Las Cabras'
+	Nombre Categoria: Lácteos
+	Precio: 21
+	Existencias: 22
+	Cantidad Vendida: 212
+
+
+	IdProducto: 12
+	Nombre Producto: Queso Manchego La Pastora
+	Nombre Proveedor: Cooperativa de Quesos 'Las Cabras'
+	Nombre Categoria: Lácteos
+	Precio: 38
+	Existencias: 86
+	Cantidad Vendida: 27
+
+
+	IdProducto: 13
+	Nombre Producto: Algas Konbu
+	Nombre Proveedor: Mayumi's
+	Nombre Categoria: Pescado/Marisco
+	Precio: 6
+	Existencias: 24
+	Cantidad Vendida: 93
+
+
+	IdProducto: 14
+	Nombre Producto: Cuajada de judías
+	Nombre Proveedor: Mayumi's
+	Nombre Categoria: Frutas/Verduras
+	Precio: 23
+	Existencias: 35
+	Cantidad Vendida: 164
+
+
+	IdProducto: 15
+	Nombre Producto: Salsa de soja baja en sodio
+	Nombre Proveedor: Mayumi's
+	Nombre Categoria: Condimentos
+	Precio: 16
+	Existencias: 39
+	Cantidad Vendida: 25
+
+
+	IdProducto: 16
+	Nombre Producto: Postre de merengue Pavlova
+	Nombre Proveedor: Pavlova, Ltd.
+	Nombre Categoria: Repostería
+	Precio: 17
+	Existencias: 29
+	Cantidad Vendida: 411
+
+
+	IdProducto: 17
+	Nombre Producto: Cordero Alice Springs
+	Nombre Proveedor: Pavlova, Ltd.
+	Nombre Categoria: Carnes
+	Precio: 39
+	Existencias: 0
+	Cantidad Vendida: 341
+
+
+	IdProducto: 18
+	Nombre Producto: Langostinos tigre Carnarvon
+	Nombre Proveedor: Pavlova, Ltd.
+	Nombre Categoria: Pescado/Marisco
+	Precio: 63
+	Existencias: 42
+	Cantidad Vendida: 136
+
+
+	IdProducto: 19
+	Nombre Producto: Pastas de té de chocolate
+	Nombre Proveedor: Specialty Biscuits, Ltd.
+	Nombre Categoria: Repostería
+	Precio: 9
+	Existencias: 25
+	Cantidad Vendida: 259
+
+
+	IdProducto: 20
+	Nombre Producto: Mermelada de Sir Rodney's
+	Nombre Proveedor: Specialty Biscuits, Ltd.
+	Nombre Categoria: Repostería
+	Precio: 81
+	Existencias: 40
+	Cantidad Vendida: 106
+
+
+	IdProducto: 21
+	Nombre Producto: Bollos de Sir Rodney's
+	Nombre Proveedor: Specialty Biscuits, Ltd.
+	Nombre Categoria: Repostería
+	Precio: 10
+	Existencias: 3
+	Cantidad Vendida: 262
+
+
+	IdProducto: 22
+	Nombre Producto: Pan de centeno crujiente estilo Gustaf's
+	Nombre Proveedor: PB Knockebrad AB
+	Nombre Categoria: Granos/Cereales
+	Precio: 21
+	Existencias: 104
+	Cantidad Vendida: 18
+
+
+	IdProducto: 23
+	Nombre Producto: Pan fino
+	Nombre Proveedor: PB Knockebrad AB
+	Nombre Categoria: Granos/Cereales
+	Precio: 9
+	Existencias: 61
+	Cantidad Vendida: 201
+
+
+	IdProducto: 24
+	Nombre Producto: Refresco Guaraná Fantástica
+	Nombre Proveedor: Refrescos Americanas LTDA
+	Nombre Categoria: Bebidas
+	Precio: 5
+	Existencias: 20
+	Cantidad Vendida: 311
+
+
+	IdProducto: 25
+	Nombre Producto: Crema de chocolate y nueces NuNuCa
+	Nombre Proveedor: Heli Swaren GmbH  KG
+	Nombre Categoria: Repostería
+	Precio: 14
+	Existencias: 76
+	Cantidad Vendida: 83
+
+
+	IdProducto: 26
+	Nombre Producto: Ositos de goma Gumbar
+	Nombre Proveedor: Heli Swaren GmbH  KG
+	Nombre Categoria: Repostería
+	Precio: 31
+	Existencias: 15
+	Cantidad Vendida: 313
+
+
+	IdProducto: 27
+	Nombre Producto: Chocolate Schoggi
+	Nombre Proveedor: Heli Swaren GmbH  KG
+	Nombre Categoria: Repostería
+	Precio: 44
+	Existencias: 49
+	Cantidad Vendida: 90
+
+
+	IdProducto: 28
+	Nombre Producto: Col fermentada Rossle
+	Nombre Proveedor: Plutzer Lebensmittelgromrkte AG
+	Nombre Categoria: Frutas/Verduras
+	Precio: 46
+	Existencias: 26
+	Cantidad Vendida: 252
+
+
+	IdProducto: 29
+	Nombre Producto: Salchicha Thuringer
+	Nombre Proveedor: Plutzer Lebensmittelgromrkte AG
+	Nombre Categoria: Carnes
+	Precio: 124
+	Existencias: 0
+	Cantidad Vendida: 186
+
+
+	IdProducto: 30
+	Nombre Producto: Arenque blanco del noroeste
+	Nombre Proveedor: Nord-Ost-Fisch Handelsgesellschaft mbH
+	Nombre Categoria: Pescado/Marisco
+	Precio: 26
+	Existencias: 10
+	Cantidad Vendida: 206
+
+
+	IdProducto: 31
+	Nombre Producto: Queso gorgonzola Telino
+	Nombre Proveedor: Formaggi Fortini s.r.l.
+	Nombre Categoria: Lácteos
+	Precio: 13
+	Existencias: 0
+	Cantidad Vendida: 496
+
+
+	IdProducto: 32
+	Nombre Producto: Queso Mascarpone Fabioli
+	Nombre Proveedor: Formaggi Fortini s.r.l.
+	Nombre Categoria: Lácteos
+	Precio: 32
+	Existencias: 9
+	Cantidad Vendida: 52
+
+
+	IdProducto: 33
+	Nombre Producto: Queso de cabra
+	Nombre Proveedor: Norske Meierier
+	Nombre Categoria: Lácteos
+	Precio: 3
+	Existencias: 112
+	Cantidad Vendida: 348
+
+
+	IdProducto: 34
+	Nombre Producto: Cerveza Sasquatch
+	Nombre Proveedor: Bigfoot Breweries
+	Nombre Categoria: Bebidas
+	Precio: 14
+	Existencias: 111
+	Cantidad Vendida: 145
+
+
+	IdProducto: 35
+	Nombre Producto: Cerveza negra Steeleye
+	Nombre Proveedor: Bigfoot Breweries
+	Nombre Categoria: Bebidas
+	Precio: 18
+	Existencias: 20
+	Cantidad Vendida: 377
+
+
+	IdProducto: 36
+	Nombre Producto: Escabeche de arenque
+	Nombre Proveedor: Svensk Sjofda AB
+	Nombre Categoria: Pescado/Marisco
+	Precio: 19
+	Existencias: 112
+	Cantidad Vendida: 198
+
+
+	IdProducto: 37
+	Nombre Producto: Salmón ahumado Gravad
+	Nombre Proveedor: Svensk Sjofda AB
+	Nombre Categoria: Pescado/Marisco
+	Precio: 26
+	Existencias: 11
+	Cantidad Vendida: 39
+
+
+	IdProducto: 38
+	Nombre Producto: Vino Cote de Blaye
+	Nombre Proveedor: Aux joyeux ecclesiastiques
+	Nombre Categoria: Bebidas
+	Precio: 264
+	Existencias: 17
+	Cantidad Vendida: 269
+
+
+	IdProducto: 39
+	Nombre Producto: Licor verde Chartreuse
+	Nombre Proveedor: Aux joyeux ecclesiastiques
+	Nombre Categoria: Bebidas
+	Precio: 18
+	Existencias: 69
+	Cantidad Vendida: 312
+
+
+	IdProducto: 40
+	Nombre Producto: Carne de cangrejo de Boston
+	Nombre Proveedor: New England Seafood Cannery
+	Nombre Categoria: Pescado/Marisco
+	Precio: 18
+	Existencias: 123
+	Cantidad Vendida: 337
+
+
+	IdProducto: 41
+	Nombre Producto: Crema de almejas estilo Nueva Inglaterra
+	Nombre Proveedor: New England Seafood Cannery
+	Nombre Categoria: Pescado/Marisco
+	Precio: 10
+	Existencias: 85
+	Cantidad Vendida: 169
+
+
+	IdProducto: 42
+	Nombre Producto: Tallarines de Singapur
+	Nombre Proveedor: Leka Trading
+	Nombre Categoria: Granos/Cereales
+	Precio: 14
+	Existencias: 26
+	Cantidad Vendida: 127
+
+
+	IdProducto: 43
+	Nombre Producto: Café de Malasia
+	Nombre Proveedor: Leka Trading
+	Nombre Categoria: Bebidas
+	Precio: 46
+	Existencias: 17
+	Cantidad Vendida: 174
+
+
+	IdProducto: 44
+	Nombre Producto: Azúcar negra Malacca
+	Nombre Proveedor: Leka Trading
+	Nombre Categoria: Condimentos
+	Precio: 19
+	Existencias: 27
+	Cantidad Vendida: 295
+
+
+	IdProducto: 45
+	Nombre Producto: Arenque ahumado
+	Nombre Proveedor: Lyngbysild
+	Nombre Categoria: Pescado/Marisco
+	Precio: 10
+	Existencias: 5
+	Cantidad Vendida: 45
+
+
+	IdProducto: 46
+	Nombre Producto: Arenque salado
+	Nombre Proveedor: Lyngbysild
+	Nombre Categoria: Pescado/Marisco
+	Precio: 12
+	Existencias: 95
+	Cantidad Vendida: 180
+
+
+	IdProducto: 47
+	Nombre Producto: Galletas Zaanse
+	Nombre Proveedor: Zaanse Snoepfabriek
+	Nombre Categoria: Repostería
+	Precio: 10
+	Existencias: 36
+	Cantidad Vendida: 131
+
+
+	IdProducto: 48
+	Nombre Producto: Chocolate holandés
+	Nombre Proveedor: Zaanse Snoepfabriek
+	Nombre Categoria: Repostería
+	Precio: 13
+	Existencias: 15
+	Cantidad Vendida: 85
+
+
+	IdProducto: 49
+	Nombre Producto: Regaliz
+	Nombre Proveedor: Karkki Oy
+	Nombre Categoria: Repostería
+	Precio: 20
+	Existencias: 10
+	Cantidad Vendida: 225
+
+
+	IdProducto: 50
+	Nombre Producto: Chocolate blanco
+	Nombre Proveedor: Karkki Oy
+	Nombre Categoria: Repostería
+	Precio: 16
+	Existencias: 65
+	Cantidad Vendida: 95
+
+
+	IdProducto: 51
+	Nombre Producto: Manzanas secas Manjimup
+	Nombre Proveedor: G'day, Mate
+	Nombre Categoria: Frutas/Verduras
+	Precio: 53
+	Existencias: 20
+	Cantidad Vendida: 209
+
+
+	IdProducto: 52
+	Nombre Producto: Cereales para Filo
+	Nombre Proveedor: G'day, Mate
+	Nombre Categoria: Granos/Cereales
+	Precio: 7
+	Existencias: 38
+	Cantidad Vendida: 83
+
+
+	IdProducto: 53
+	Nombre Producto: Empanada de carne
+	Nombre Proveedor: G'day, Mate
+	Nombre Categoria: Carnes
+	Precio: 33
+	Existencias: 0
+	Cantidad Vendida: 329
+
+
+	IdProducto: 54
+	Nombre Producto: Empanada de cerdo
+	Nombre Proveedor: Ma Maison
+	Nombre Categoria: Carnes
+	Precio: 7
+	Existencias: 21
+	Cantidad Vendida: 325
+
+
+	IdProducto: 55
+	Nombre Producto: Paté chino
+	Nombre Proveedor: Ma Maison
+	Nombre Categoria: Carnes
+	Precio: 24
+	Existencias: 115
+	Cantidad Vendida: 450
+
+
+	IdProducto: 56
+	Nombre Producto: Gnocchi de la abuela Alicia
+	Nombre Proveedor: Pasta Buttini s.r.l.
+	Nombre Categoria: Granos/Cereales
+	Precio: 38
+	Existencias: 21
+	Cantidad Vendida: 334
+
+
+	IdProducto: 57
+	Nombre Producto: Raviolis Angelo
+	Nombre Proveedor: Pasta Buttini s.r.l.
+	Nombre Categoria: Granos/Cereales
+	Precio: 20
+	Existencias: 36
+	Cantidad Vendida: 168
+
+
+	IdProducto: 58
+	Nombre Producto: Caracoles de Borgoña
+	Nombre Proveedor: Escargots Nouveaux
+	Nombre Categoria: Pescado/Marisco
+	Precio: 13
+	Existencias: 62
+	Cantidad Vendida: 155
+
+
+	IdProducto: 59
+	Nombre Producto: Raclet de queso Courdavault
+	Nombre Proveedor: Gai paturage
+	Nombre Categoria: Lácteos
+	Precio: 55
+	Existencias: 79
+	Cantidad Vendida: 544
+
+
+	IdProducto: 60
+	Nombre Producto: Camembert Pierrot
+	Nombre Proveedor: Gai paturage
+	Nombre Categoria: Lácteos
+	Precio: 34
+	Existencias: 19
+	Cantidad Vendida: 490
+
+
+	IdProducto: 61
+	Nombre Producto: Sirope de arce
+	Nombre Proveedor: Forts Rrables
+	Nombre Categoria: Condimentos
+	Precio: 29
+	Existencias: 113
+	Cantidad Vendida: 131
+
+
+	IdProducto: 62
+	Nombre Producto: Tarta de azúcar
+	Nombre Proveedor: Forts Rrables
+	Nombre Categoria: Repostería
+	Precio: 49
+	Existencias: 17
+	Cantidad Vendida: 360
+
+
+	IdProducto: 63
+	Nombre Producto: Sandwich de vegetales
+	Nombre Proveedor: Pavlova, Ltd.
+	Nombre Categoria: Condimentos
+	Precio: 44
+	Existencias: 24
+	Cantidad Vendida: 209
+
+
+	IdProducto: 64
+	Nombre Producto: Bollos de pan de Wimmer
+	Nombre Proveedor: Plutzer Lebensmittelgromrkte AG
+	Nombre Categoria: Granos/Cereales
+	Precio: 33
+	Existencias: 22
+	Cantidad Vendida: 240
+
+
+	IdProducto: 65
+	Nombre Producto: Salsa de pimiento picante de Luisiana
+	Nombre Proveedor: New Orleans Cajun Delights
+	Nombre Categoria: Condimentos
+	Precio: 21
+	Existencias: 76
+	Cantidad Vendida: 238
+
+
+	IdProducto: 66
+	Nombre Producto: Especias picantes de Luisiana
+	Nombre Proveedor: New Orleans Cajun Delights
+	Nombre Categoria: Condimentos
+	Precio: 17
+	Existencias: 4
+	Cantidad Vendida: 150
+
+
+	IdProducto: 67
+	Nombre Producto: Cerveza Laughing Lumberjack
+	Nombre Proveedor: Bigfoot Breweries
+	Nombre Categoria: Bebidas
+	Precio: 14
+	Existencias: 52
+	Cantidad Vendida: 5
+
+
+	IdProducto: 68
+	Nombre Producto: Barras de pan de Escocia
+	Nombre Proveedor: Specialty Biscuits, Ltd.
+	Nombre Categoria: Repostería
+	Precio: 13
+	Existencias: 6
+	Cantidad Vendida: 250
+
+
+	IdProducto: 69
+	Nombre Producto: Queso Gudbrandsdals
+	Nombre Proveedor: Norske Meierier
+	Nombre Categoria: Lácteos
+	Precio: 36
+	Existencias: 26
+	Cantidad Vendida: 184
+
+
+	IdProducto: 70
+	Nombre Producto: Cerveza Outback
+	Nombre Proveedor: Pavlova, Ltd.
+	Nombre Categoria: Bebidas
+	Precio: 15
+	Existencias: 15
+	Cantidad Vendida: 261
+
+
+	IdProducto: 71
+	Nombre Producto: Crema de queso Flotemys
+	Nombre Proveedor: Norske Meierier
+	Nombre Categoria: Lácteos
+	Precio: 22
+	Existencias: 26
+	Cantidad Vendida: 430
+
+
+	IdProducto: 72
+	Nombre Producto: Queso Mozzarella Giovanni
+	Nombre Proveedor: Formaggi Fortini s.r.l.
+	Nombre Categoria: Lácteos
+	Precio: 35
+	Existencias: 14
+	Cantidad Vendida: 310
+
+
+	IdProducto: 73
+	Nombre Producto: Caviar rojo
+	Nombre Proveedor: Svensk Sjofda AB
+	Nombre Categoria: Pescado/Marisco
+	Precio: 15
+	Existencias: 101
+	Cantidad Vendida: 65
+
+
+	IdProducto: 74
+	Nombre Producto: Queso de soja Longlife
+	Nombre Proveedor: Tokyo Traders
+	Nombre Categoria: Frutas/Verduras
+	Precio: 10
+	Existencias: 4
+	Cantidad Vendida: 202
+
+
+	IdProducto: 75
+	Nombre Producto: Cerveza Klosterbier Rhanbru
+	Nombre Proveedor: Plutzer Lebensmittelgromrkte AG
+	Nombre Categoria: Bebidas
+	Precio: 8
+	Existencias: 125
+	Cantidad Vendida: 194
+
+
+	IdProducto: 76
+	Nombre Producto: Licor Cloudberry
+	Nombre Proveedor: Karkki Oy
+	Nombre Categoria: Bebidas
+	Precio: 18
+	Existencias: 57
+	Cantidad Vendida: 240
+
+
+	IdProducto: 77
+	Nombre Producto: Salsa verde original Frankfurter
+	Nombre Proveedor: Plutzer Lebensmittelgromrkte AG
+	Nombre Categoria: Condimentos
+	Precio: 13
+	Existencias: 32
+	Cantidad Vendida: 200
+
+
